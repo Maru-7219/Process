@@ -75,7 +75,7 @@ body {
     margin-bottom: 0; /* Remove margin for the last image */
 }
    
-    footer {
+    .footer {
         background-color: #00cc00;
      padding: 18px;
         margin: 0;
