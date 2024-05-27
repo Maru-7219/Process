@@ -91,15 +91,16 @@ body {
             justify-content: center;
             gap: 20px;
         }
-        .service-box {
+       .service-box {
             background-color: black;
             color: #00cc00;
             padding: 20px;
-            width: 30%;
-            min-width: 280px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            border-radius: 8px;
-            text-align: left;
+            border: 1px solid #00cc00;;
+    width: 30%;
+    min-width: 280px;
+    box-shadow: 0 4px 8px #00cc00;
+    border-radius: 8px;
+    text-align: center;
         }
         @media (max-width: 768px) {
             .service-box {
